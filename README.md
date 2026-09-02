@@ -1,6 +1,6 @@
 # Excel Data Analysis Projects
 
-Welcome to my Excel Data Analysis portfolio. This repository contains practical projects where I used Microsoft Excel to clean, analyse, and interpret data and present meaningful insights.
+Welcome to Pamela's Excel Data Analysis portfolio. This repository contains practical projects where I used Microsoft Excel to clean, analyse, and interpret data and present meaningful insights.
 
 ## Projects
 
